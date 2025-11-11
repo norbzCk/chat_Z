@@ -4,11 +4,12 @@ Chat_Z is a simple yet interactive AI chatbot written in Python that learns new 
 
  Features
 
-->Self-Learning: Learns and remembers new responses on the fly.
+->Self-Learning: Learns and remembers new responses on the fly, you type exactly how you want it to answer the next time you prompt it.
 
 ->Persistent Memory: Saves learned replies to responses.json.
 
-->Conversational: Responds in both English and Swahili.
+->Conversational: Responds in English.
+->Interactivity: GUI by using tkinter.
 
 ->Lightweight: Runs in any Python environment—no external dependencies.
 
