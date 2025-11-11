@@ -14,9 +14,3 @@ Chat_Z is a simple yet interactive AI chatbot written in Python that learns new 
 ->Lightweight: Runs in any Python environment—no external dependencies.
 
 ->Simple Structure: Clean, beginner-friendly codebase.
-
-Project Structure
-Chat_Z/
-├── chatbot.py          # Main chatbot script
-├── responses.json      # Stores learned responses (auto-created)
-└── README.md
